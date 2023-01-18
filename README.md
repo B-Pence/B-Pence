@@ -20,9 +20,3 @@ Rust___2021 ->
 C#_____2022 ->
 
 Pascal_2022 ->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Pence&count_private=true&bg_color=1e1e2e&text_color=73f5d9&title_color=73f5d9&hide_border=true)](https://github.com/B-Pence)<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B-Pence&repo=FRC-Main-2022&bg_color=1e1e2e&text_color=73f5d9&icon_color=cba6f7&title_color=73f5d9&hide_border=true)](https://github.com/NinjaMunkee2395/FRC-Main-2022)
-
-[![B-Pence's GitHub stats](https://github-readme-stats.vercel.app/api/?username=B-Pence&count_private=true&bg_color=1e1e2e&text_color=73f5d9&title_color=73f5d9&hide_border=true)](https://github.com/B-Pence)
