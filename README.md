@@ -6,8 +6,8 @@
 
 ## Learning:
 
-![](https://img.shields.io/badge/-Pascal-%23FFDC0F)
-![](https://img.shields.io/badge/-6502%20ASM-%2326689A)
+![](https://img.shields.io/badge/-SH2%20ASM-informational?style=flat&color=1357f8)
+![](https://img.shields.io/badge/-Rust-informational?style=flat&color=b7410e)
 
 ## Stats:
 ![](./profile-3d-contrib/profile-night-view.svg)
