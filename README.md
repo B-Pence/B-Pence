@@ -1,13 +1,19 @@
-## Experience:
+# Skills:
 
-![](https://img.shields.io/badge/-C-%23A8B9CC)
-![](https://img.shields.io/badge/-C++-informational?style=flat&color=00599C)
-![](https://img.shields.io/badge/-C%23-%23239120)
+### Languages:
+<div class="row">
+<img src="https://github.com/B-Pence/skill-icons/blob/main/icons/C.svg" width=48> &nbsp;
+<img src="https://github.com/B-Pence/skill-icons/blob/main/icons/CPP.svg" width=48> &nbsp;
+<img src="https://github.com/B-Pence/skill-icons/blob/main/icons/CS.svg" width=48> &nbsp;
+</div>
 
-## Learning:
+### Tools:
+<div class="row">
+<img src="https://github.com/B-Pence/skill-icons/blob/main/icons/Unity-Dark.svg" width=48> &nbsp;
+<img src="https://github.com/B-Pence/skill-icons/blob/main/icons/Godot-Dark.svg" width=48> &nbsp;
+<img src="https://github.com/KiCad/kicad-source-mirror/blob/master/resources/bitmaps_png/sources/dark/icon_kicad_32.svg" width=48> &nbsp;
+</div>
+<br/>
 
-![](https://img.shields.io/badge/-SH2%20ASM-informational?style=flat&color=1357f8)
-![](https://img.shields.io/badge/-Rust-informational?style=flat&color=b7410e)
-
-## Stats:
+# Stats:
 ![](./profile-3d-contrib/profile-night-view.svg)
